@@ -1,0 +1,10 @@
+/Users/nathawat/Projects/docker/API/bin/Debug/netcoreapp2.0/API.deps.json
+/Users/nathawat/Projects/docker/API/bin/Debug/netcoreapp2.0/API.runtimeconfig.json
+/Users/nathawat/Projects/docker/API/bin/Debug/netcoreapp2.0/API.runtimeconfig.dev.json
+/Users/nathawat/Projects/docker/API/bin/Debug/netcoreapp2.0/API.dll
+/Users/nathawat/Projects/docker/API/bin/Debug/netcoreapp2.0/API.pdb
+/Users/nathawat/Projects/docker/API/obj/Debug/netcoreapp2.0/API.csproj.CoreCompileInputs.cache
+/Users/nathawat/Projects/docker/API/obj/Debug/netcoreapp2.0/API.AssemblyInfoInputs.cache
+/Users/nathawat/Projects/docker/API/obj/Debug/netcoreapp2.0/API.AssemblyInfo.cs
+/Users/nathawat/Projects/docker/API/obj/Debug/netcoreapp2.0/API.dll
+/Users/nathawat/Projects/docker/API/obj/Debug/netcoreapp2.0/API.pdb

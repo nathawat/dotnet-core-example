@@ -1,0 +1,5 @@
+/Users/nathawat/Projects/docker/API
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=API
+--content-root=/Users/nathawat/Projects/docker/API
+--file=
